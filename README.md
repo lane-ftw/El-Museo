@@ -1,4 +1,4 @@
-My version of a 100% save file for Into The ERadius 1. Everything scavenged from the zone.
+My version of a 100% save file for Into The Radius 1. Everything scavenged from the zone.
 
 
 Every gun fully upgraded and loaded along with mags and ammo hung on the wall, as well as an un-upgraded version in red repair status.
